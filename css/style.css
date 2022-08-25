@@ -1,0 +1,55 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.image-header {
+    background: #042c46;
+}
+.image-header img {
+    max-width: 100px;
+    max-height: 100px;
+}
+a{
+    color:rgba(80, 6, 6, 0.774) ;
+}
+.primary-color{
+    color: rgba(80, 6, 6, 0.774);
+}
+.nav-item{
+    color: rgba(80, 6, 6, 0.774);
+    font-weight: bold;
+}
+.active{
+    border-bottom: 2px solid rgb(51, 6, 6);
+}
+
+.btn-main {
+    background-color: #042c46;
+    color: white;
+}
+.bg-main{
+    background-color: rgb(6, 6, 63)
+}
+
+.portalcol {
+    color: #042c46;
+}
+
+.line {
+    color: #042c46;
+}
+
+.foot {
+    background-color: #042c46;
+}
+
+.sideclass {
+    color: #042c46;
+}
+
+#togglePassword {
+    cursor: pointer;
+    margin-left: -30px;
+    z-index: 999;
+    margin-top: 10px;
+}

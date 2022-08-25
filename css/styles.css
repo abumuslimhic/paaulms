@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.image-header {
+    background: white;
+}
+
+.image-header h2 {
+    margin: 0;
+}
+
+.image-header h3 {
+    margin: 0;
+}
+
+.image-header img {
+    width: 200px;
+    height: 100px;
+    margin-top: 5px;
+}
+
+.nav a {
+    text-decoration: none;
+    font-weight: bold;
+    margin: 30px;
+}
+
+.navbar {
+    padding: 15px;
+}
+
+.nav-item a{
+    color: rgb(253, 229, 90);
+}
+
+.navbar-brand {
+    padding-top: 0;
+    padding-bottom: 0;
+    margin: 0;
+}
+
+.logbox h4 {
+    color: rgb(253, 229, 90);
+}
